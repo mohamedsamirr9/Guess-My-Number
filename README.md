@@ -1,6 +1,6 @@
 # Guess-My-Number
 simple game to guess a number
-## game rules
+## Game Rules
 <ul>
 <li>You can guess the number 20 times</li>
 <li>get highscore</li>
